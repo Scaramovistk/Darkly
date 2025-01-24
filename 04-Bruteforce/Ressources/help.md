@@ -1,0 +1,1 @@
+With the owasp website, I can have the 10 000 most famous password, I just have to use curl with all of them, and the user admin, and I have the password for admin. 
