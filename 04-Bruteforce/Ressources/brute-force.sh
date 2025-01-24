@@ -1,5 +1,4 @@
 #!/bin/bash
-PASSWORD_FILE="passwords.txt"
 OLDRESPONSE=""
 while IFS= read -r password; do
   echo "Testing password: $password"

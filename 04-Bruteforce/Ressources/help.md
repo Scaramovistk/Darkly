@@ -1,1 +1,3 @@
-With the owasp website, I can have the 10 000 most famous password, I just have to use curl with all of them, and the user admin, and I have the password for admin. 
+## Using the Common Password List
+
+By using the OWASP website, I can obtain the most common passwords. I just need to use `curl` with each of them and the user `admin` to find the administrator's password.
